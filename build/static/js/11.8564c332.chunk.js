@@ -1,2 +1,0 @@
-(this.webpackJsonpairbnb=this.webpackJsonpairbnb||[]).push([[11],{152:function(e,a,n){"use strict";n.r(a);var t=n(1),l=n.n(t);n(97);a.default=l.a.memo((function(){return l.a.createElement("div",{className:"footer"},l.a.createElement("p",null,"\xa9 2020 Platinum Belts "),l.a.createElement("p",null,"12 palm Blvd Umhlanga Ridge"))}))},97:function(e,a,n){}}]);
-//# sourceMappingURL=11.8564c332.chunk.js.map
