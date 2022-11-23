@@ -9,7 +9,7 @@ import axios from "axios"
 import { useStateValue } from './StateProvider';
 
 function Bookings() {
-    const [{user,token,isAuth}] = useStateValue();
+    const [{user,token}] = useStateValue();
     var [booking_details,setBookings]=useState([]);
 
 
