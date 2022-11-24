@@ -25,7 +25,7 @@ function Header() {
     return (
         <div className="header">
             <Link to="/">
-            <img src="https://i.pinimg.com/originals/3c/bf/be/3cbfbe148597341fa56f2f87ade90956.png" className="header_icon"></img>
+            <img src="https://platinumlounge.co.za/plat/wp-content/uploads/2022/03/Logo-white.png " className="header_icon"></img>
             </Link>
             <div className="header_center">
             <SearchIcon />
