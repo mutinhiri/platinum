@@ -13,6 +13,7 @@
     object-fit:contain;
     height:60px;
     margin-left: 20px;
+    background-color:rgba(38, 28, 28, 0.42);
 }
 
 .header_center{
