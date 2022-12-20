@@ -44,7 +44,7 @@ function App() {
               <Route path="/profile">{isAuth ? ( <div><Header /><Profile />      <Footer /></div>) : ( <Redirect to="login" />) }</Route>
               <Route path="/bookings">{isAuth ? ( <div><Header /><Bookings />       <Footer /></div>) : ( <Redirect to="login" />) }</Route>
               <Route path="/checkout" ><Header />       <Order />      <Footer /></Route>
-              <Route path="/" exact><Header />       <Home />      <Footer /></Route>
+              <Route path="/" exact><Header/> <Login/>        <Footer /></Route>
         
      
        </Suspense>
